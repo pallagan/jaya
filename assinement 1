@@ -1,0 +1,21 @@
+a=int(input("enter a number"));
+b=int(input("enter a number"));
+c=a+b;
+d=a-c;
+e=a*b;
+f=a/b;
+g=a%b;
+print("sum value c:",c)
+print("sub value d:",d)
+print("mult value e:",e)
+print("divi value f:",f)
+print("rem value g:",g)
+out put:
+enter a number8
+enter a number3
+sum value c: 11
+sub value d: -3
+mult value e: 24
+divi value f: 2.6666666666666665
+rem value g: 2
+> 

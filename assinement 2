@@ -1,0 +1,18 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a!=b)
+print(a==b)
+out put:
+enter a number7
+enter a number4
+True
+False
+True
+False
+True
+False
+> 

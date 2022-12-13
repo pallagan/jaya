@@ -1,0 +1,10 @@
+n=int(input())
+list=list(map(int,input().split()))
+l=[]
+for i in list:
+    if i not in l:
+        l.append(i)
+print(l)
+output: 
+1,2,3,45,3,4
+1,2,3,45,4
